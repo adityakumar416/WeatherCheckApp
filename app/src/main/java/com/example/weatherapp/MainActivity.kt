@@ -102,7 +102,7 @@ class MainActivity : AppCompatActivity() {
                 binding.imageView2.setBackgroundResource(R.drawable.cloud_icon)
             }
 
-            "Light Rain", "Drizzle", "Moderate Rain", "Showers", "Heavy Rain" -> {
+            "Light Rain", "Drizzle", "Moderate Rain", "Showers", "Heavy Rain", "Rain" -> {
                 binding.main.setBackgroundResource(R.drawable.rain_image)
                 binding.imageView2.setBackgroundResource(R.drawable.rain_icon)
             }
